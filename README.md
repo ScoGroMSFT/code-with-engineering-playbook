@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/CSECodeHub/8087839c-0787-4095-bfd5-8d5fcbeb2d1d/20455351-2a61-4338-8a45-2835cf45749c/_apis/work/boardbadge/988f32af-abed-4fd3-bf7c-07ba5fae82ee)](https://dev.azure.com/CSECodeHub/8087839c-0787-4095-bfd5-8d5fcbeb2d1d/_boards/board/t/20455351-2a61-4338-8a45-2835cf45749c/Microsoft.RequirementCategory)
 # CSE Code-With Customer/Partner Engineering Playbook
 
 An engineer working for a [CSE](./CSE.md) project...
